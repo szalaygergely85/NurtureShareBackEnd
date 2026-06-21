@@ -3,7 +3,6 @@ package com.nurtureshare.backend.service;
 import com.nurtureshare.backend.dto.request.LoginRequest;
 import com.nurtureshare.backend.dto.request.RegisterRequest;
 import com.nurtureshare.backend.dto.response.AuthResponse;
-import com.nurtureshare.backend.exception.ResourceNotFoundException;
 import com.nurtureshare.backend.exception.UnauthorizedException;
 import com.nurtureshare.backend.model.Couple;
 import com.nurtureshare.backend.model.Pregnancy;
@@ -22,8 +21,8 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
+import java.security.SecureRandom;
 import java.time.LocalDate;
-import java.util.Random;
 
 @Service
 @Transactional
@@ -40,7 +39,8 @@ public class AuthService {
 
     public AuthResponse register(RegisterRequest req) {
         if (userRepository.existsByEmail(req.getEmail())) {
-            throw new IllegalArgumentException("Email is already registered: " + req.getEmail());
+            // Generic message — do not confirm which emails are registered.
+            throw new IllegalArgumentException("Unable to register with the provided details.");
         }
 
         UserRole role = req.getRole() != null ? req.getRole() : UserRole.MOTHER;
@@ -87,8 +87,10 @@ public class AuthService {
     }
 
     public AuthResponse login(LoginRequest req) {
+        // Use the same exception/message whether the email is unknown or the
+        // password is wrong, so attackers cannot enumerate registered accounts.
         User user = userRepository.findByEmail(req.getEmail())
-                .orElseThrow(() -> new ResourceNotFoundException("User not found with email: " + req.getEmail()));
+                .orElseThrow(() -> new UnauthorizedException("Invalid email or password"));
 
         if (!passwordEncoder.matches(req.getPassword(), user.getPasswordHash())) {
             throw new UnauthorizedException("Invalid email or password");
@@ -107,7 +109,7 @@ public class AuthService {
 
     private String generatePairingCode() {
         String chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
-        Random random = new Random();
+        SecureRandom random = new SecureRandom();
         String code;
         do {
             StringBuilder sb = new StringBuilder(5);

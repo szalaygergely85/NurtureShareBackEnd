@@ -1,0 +1,282 @@
+[
+  {
+    "week": 1,
+    "title": "Journey begins",
+    "babySize": "invisible",
+    "description": "Pregnancy is measured from the first day of the last menstrual period. Your body is preparing for ovulation and possible pregnancy.",
+    "imageDescription": "A microscopic view of cells beginning their journey."
+  },
+  {
+    "week": 2,
+    "title": "Ovulation week",
+    "babySize": "invisible",
+    "description": "Ovulation usually occurs this week. If sperm meets the egg, fertilization can happen.",
+    "imageDescription": "An egg cell released from the ovary."
+  },
+  {
+    "week": 3,
+    "title": "Fertilization",
+    "babySize": "poppy seed",
+    "description": "Fertilization may occur, creating a zygote. The fertilized egg begins dividing rapidly while traveling toward the uterus.",
+    "imageDescription": "A fertilized egg dividing into multiple cells."
+  },
+  {
+    "week": 4,
+    "title": "Embryo forming",
+    "babySize": "poppy seed",
+    "description": "The embryo implants in the uterine wall. The neural tube begins to form.",
+    "imageDescription": "A tiny embryo nestled in the uterine lining."
+  },
+  {
+    "week": 5,
+    "title": "Heart forming",
+    "babySize": "sesame seed",
+    "description": "The heart and circulatory system are beginning to develop. Early cardiac activity may start this week. The brain and spinal cord are also developing.",
+    "imageDescription": "A tiny embryo showing early organ development."
+  },
+  {
+    "week": 6,
+    "title": "Heartbeat detected",
+    "babySize": "lentil",
+    "description": "Cardiac activity can often be detected on ultrasound. The embryo has a distinct head and tiny limb buds are forming.",
+    "imageDescription": "An ultrasound image showing a tiny heartbeat."
+  },
+  {
+    "week": 7,
+    "title": "Brain development",
+    "babySize": "blueberry",
+    "description": "{name}'s brain is growing rapidly. Arm and leg buds are visible and {name} moves spontaneously.",
+    "imageDescription": "A blueberry-sized embryo with distinct limb buds."
+  },
+  {
+    "week": 8,
+    "title": "Embryo stage",
+    "babySize": "raspberry",
+    "description": "Fingers and toes are forming. The heart is beating rapidly and major organs continue developing.",
+    "imageDescription": "A raspberry-sized embryo with visible fingers and toes."
+  },
+  {
+    "week": 9,
+    "title": "Moving around",
+    "babySize": "grape",
+    "description": "The fetus can move, though you cannot feel it yet. Muscles and nerves are developing rapidly.",
+    "imageDescription": "A grape-sized embryo with developing muscles."
+  },
+  {
+    "week": 10,
+    "title": "Becoming a fetus",
+    "babySize": "kumquat",
+    "description": "{name} is now officially a fetus. All vital organs are formed and beginning to function.",
+    "imageDescription": "A kumquat-sized fetus with fully formed fingers."
+  },
+  {
+    "week": 11,
+    "title": "Unique fingerprints",
+    "babySize": "fig",
+    "description": "{name} is developing unique fingerprints. Tooth buds are forming under the gums.",
+    "imageDescription": "A fig-sized fetus with developing fingerprints."
+  },
+  {
+    "week": 12,
+    "title": "Fetal stage begins",
+    "babySize": "lime",
+    "description": "Most major organs are formed. {name} can make small movements and facial expressions.",
+    "imageDescription": "A lime-sized fetus making subtle facial movements."
+  },
+  {
+    "week": 13,
+    "title": "End of first trimester",
+    "babySize": "pea pod",
+    "description": "The risk of miscarriage drops significantly. {name} can suck their thumb.",
+    "imageDescription": "A pea pod-sized fetus sucking their thumb."
+  },
+  {
+    "week": 14,
+    "title": "Second trimester starts",
+    "babySize": "lemon",
+    "description": "{name} is making breathing-like movements with amniotic fluid. Fine hair called lanugo begins to appear.",
+    "imageDescription": "A lemon-sized fetus with developing hair follicles."
+  },
+  {
+    "week": 15,
+    "title": "Bones hardening",
+    "babySize": "apple",
+    "description": "Bones are hardening and {name}'s ears are moving into position. {name} may begin to hear sounds.",
+    "imageDescription": "An apple-sized fetus with hardening skeleton."
+  },
+  {
+    "week": 16,
+    "title": "Growing rapidly",
+    "babySize": "avocado",
+    "description": "{name} can hear some sounds. The skeleton continues hardening from cartilage into bone.",
+    "imageDescription": "An avocado-sized fetus with a fully developed skeleton structure."
+  },
+  {
+    "week": 17,
+    "title": "Fat developing",
+    "babySize": "pear",
+    "description": "{name} is storing fat for warmth and energy. The umbilical cord is growing thicker.",
+    "imageDescription": "A pear-sized fetus developing fat stores."
+  },
+  {
+    "week": 18,
+    "title": "Baby yawning",
+    "babySize": "bell pepper",
+    "description": "{name} may yawn, hiccup, and swallow. Some parents begin feeling movements called quickening around this time.",
+    "imageDescription": "A bell pepper-sized fetus in a yawning pose."
+  },
+  {
+    "week": 19,
+    "title": "Sensory development",
+    "babySize": "mango",
+    "description": "{name}'s brain is developing areas for the senses: smell, taste, sight, hearing, and touch.",
+    "imageDescription": "A mango-sized fetus with developing sensory systems."
+  },
+  {
+    "week": 20,
+    "title": "Halfway there!",
+    "babySize": "banana",
+    "description": "{name} can swallow and is covered in protective vernix. Movements and kicks are usually noticeable now.",
+    "imageDescription": "A banana-sized fetus covered in protective vernix coating."
+  },
+  {
+    "week": 21,
+    "title": "Taste buds forming",
+    "babySize": "carrot",
+    "description": "{name}'s taste buds are fully formed. {name} can taste the amniotic fluid and may prefer sweet flavors.",
+    "imageDescription": "A carrot-sized fetus with fully developed taste buds."
+  },
+  {
+    "week": 22,
+    "title": "Looking more human",
+    "babySize": "spaghetti squash",
+    "description": "{name} looks more like a miniature newborn. Lips, eyelids, and eyebrows are becoming more distinct.",
+    "imageDescription": "A spaghetti squash-sized fetus with recognizable human features."
+  },
+  {
+    "week": 23,
+    "title": "Gaining weight",
+    "babySize": "grapefruit",
+    "description": "{name} is gaining weight steadily. The lungs are developing but are not yet ready for breathing outside the womb.",
+    "imageDescription": "A grapefruit-sized fetus gaining healthy weight."
+  },
+  {
+    "week": 24,
+    "title": "Viability milestone",
+    "babySize": "corn",
+    "description": "The lungs are developing rapidly. {name} practices breathing movements by inhaling amniotic fluid.",
+    "imageDescription": "A corn-sized fetus practicing breathing movements."
+  },
+  {
+    "week": 25,
+    "title": "Responding to sounds",
+    "babySize": "rutabaga",
+    "description": "{name} responds to familiar voices and music. The startle reflex is developing.",
+    "imageDescription": "A rutabaga-sized fetus with responsive hearing."
+  },
+  {
+    "week": 26,
+    "title": "Eyes open",
+    "babySize": "zucchini",
+    "description": "{name} may begin opening their eyes. The retinas continue developing.",
+    "imageDescription": "A zucchini-sized fetus with open eyes."
+  },
+  {
+    "week": 27,
+    "title": "Dreaming begins",
+    "babySize": "head of cauliflower",
+    "description": "Brain activity is increasing significantly. {name} now has more regular sleep and wake cycles, including REM sleep.",
+    "imageDescription": "A cauliflower-sized fetus in a peaceful sleep state."
+  },
+  {
+    "week": 28,
+    "title": "Third trimester begins",
+    "babySize": "eggplant",
+    "description": "{name} can open and close eyes. Brain activity increases significantly.",
+    "imageDescription": "An eggplant-sized fetus with active brain development."
+  },
+  {
+    "week": 29,
+    "title": "Head engagement",
+    "babySize": "acorn squash",
+    "description": "{name} is continuing to gain fat and muscle. Many babies begin moving into a head-down position around this time.",
+    "imageDescription": "An acorn squash-sized fetus in head-down position."
+  },
+  {
+    "week": 30,
+    "title": "Hair growing",
+    "babySize": "large cabbage",
+    "description": "{name}'s hair is growing. Bone marrow is producing red blood cells.",
+    "imageDescription": "A large cabbage-sized fetus with growing hair."
+  },
+  {
+    "week": 31,
+    "title": "Rapid brain growth",
+    "babySize": "coconut",
+    "description": "The brain is developing rapidly, forming billions of important neural connections.",
+    "imageDescription": "A coconut-sized fetus with rapidly developing brain."
+  },
+  {
+    "week": 32,
+    "title": "Almost there",
+    "babySize": "squash",
+    "description": "{name} is practicing breathing movements and continuing to gain weight. Fingernails are fully formed.",
+    "imageDescription": "A squash-sized fetus with fully formed fingernails."
+  },
+  {
+    "week": 33,
+    "title": "Immune system boost",
+    "babySize": "pineapple",
+    "description": "{name} receives antibodies from you through the placenta to strengthen the immune system.",
+    "imageDescription": "A pineapple-sized fetus receiving vital immune support."
+  },
+  {
+    "week": 34,
+    "title": "Getting ready",
+    "babySize": "cantaloupe",
+    "description": "{name}'s central nervous system and lungs are nearly mature. Fingernails reach the fingertips.",
+    "imageDescription": "A cantaloupe-sized fetus with maturing organ systems."
+  },
+  {
+    "week": 35,
+    "title": "Kidney development",
+    "babySize": "honeydew melon",
+    "description": "Kidneys are fully developed. {name} continues gaining weight and practicing essential survival skills.",
+    "imageDescription": "A honeydew-sized fetus with fully developed kidneys."
+  },
+  {
+    "week": 36,
+    "title": "Full term approaching",
+    "babySize": "romaine lettuce",
+    "description": "{name} is gaining weight rapidly. Most organs are mature and ready for life outside the womb.",
+    "imageDescription": "A romaine lettuce-sized fetus nearing full term development."
+  },
+  {
+    "week": 37,
+    "title": "Early full term",
+    "babySize": "winter melon",
+    "description": "{name} is considered early term. The grasp reflex is strong and fully developed.",
+    "imageDescription": "A winter melon-sized fetus with a strong grasp reflex."
+  },
+  {
+    "week": 38,
+    "title": "Full term",
+    "babySize": "pumpkin",
+    "description": "{name} is considered full term soon. Most organs are fully functioning and {name} is settling lower into the pelvis.",
+    "imageDescription": "A pumpkin-sized fetus fully ready for birth."
+  },
+  {
+    "week": 39,
+    "title": "Any day now",
+    "babySize": "mini watermelon",
+    "description": "{name} has shed most of the lanugo. The placenta continues providing nutrients and antibodies.",
+    "imageDescription": "A mini watermelon-sized fetus ready to meet the world."
+  },
+  {
+    "week": 40,
+    "title": "Ready to meet you!",
+    "babySize": "watermelon",
+    "description": "{name} is fully developed and ready for birth. Labor may begin at any time.",
+    "imageDescription": "A watermelon-sized baby fully ready for their debut."
+  }
+]

@@ -1,0 +1,192 @@
+{
+  "granularity": "biweekly_pregnancy_weekly_postpartum",
+
+  "pregnancyActions": [
+    { "upToWeek":  4, "items": ["Confirm pregnancy and schedule first prenatal visit", "Start folic acid prenatal vitamins", "Avoid alcohol, smoking, and drugs", "Track symptoms and cycle dates"] },
+    { "upToWeek":  8, "items": ["Attend first prenatal appointment", "Discuss medications and supplements with doctor", "Manage nausea with small frequent meals", "Book early ultrasound"] },
+    { "upToWeek": 12, "items": ["First trimester screening tests", "Discuss genetic testing options (NIPT)", "Monitor fatigue and nutrition", "Begin pregnancy-safe light activity"] },
+    { "upToWeek": 14, "items": ["Review early test results", "Plan upcoming anatomy scan", "Start maternity clothing if needed", "Maintain hydration and nutrition"] },
+    { "upToWeek": 16, "items": ["Routine prenatal checkup", "Research childbirth education classes", "Monitor early fetal movement awareness", "Prepare anatomy scan questions"] },
+    { "upToWeek": 18, "items": ["Continue routine checkups", "Begin bonding with baby movements", "Light exercise and stretching", "Discuss mental wellbeing"] },
+    { "upToWeek": 20, "items": ["Anatomy scan appointment", "Review fetal development results", "Begin nursery planning", "Monitor first strong movements"] },
+    { "upToWeek": 22, "items": ["Monitor physical discomfort", "Discuss pregnancy progress with doctor", "Adjust sleep positions", "Plan work/life balance changes"] },
+    { "upToWeek": 24, "items": ["Glucose screening preparation", "Monitor swelling and blood pressure", "Learn preterm labor signs", "Start birth planning discussions"] },
+    { "upToWeek": 26, "items": ["Review glucose test results", "Increase focus on rest", "Monitor baby movement patterns", "Prepare for third trimester transition"] },
+    { "upToWeek": 28, "items": ["Third trimester begins", "Start kick counting", "Discuss Rh factor if applicable", "Plan maternity leave"] },
+    { "upToWeek": 30, "items": ["Prepare hospital bag", "Install car seat", "Monitor increasing fatigue", "Discuss labor expectations"] },
+    { "upToWeek": 32, "items": ["Take hospital tour", "Finalize birth plan", "Prepare home essentials", "Practice relaxation techniques"] },
+    { "upToWeek": 34, "items": ["Monitor contractions awareness", "Increase rest periods", "Prepare postpartum supplies", "Finalize support system"] },
+    { "upToWeek": 36, "items": ["Weekly prenatal visits begin", "Pack final hospital bag", "Wash baby clothes", "Monitor labor signs"] },
+    { "upToWeek": 38, "items": ["Baby is full term", "Monitor contractions closely", "Stay near hospital readiness", "Practice calm breathing"] },
+    { "upToWeek": 40, "items": ["Due date reached", "Monitor labor onset", "Stay hydrated and rested", "Contact provider if labor starts"] }
+  ],
+
+  "partnerTips": [
+    { "upToWeek":  4, "text": "Be emotionally present even before symptoms feel real." },
+    { "upToWeek":  8, "text": "Support nausea, fatigue, and emotional changes patiently." },
+    { "upToWeek": 12, "text": "First ultrasound is a key bonding milestone — be there." },
+    { "upToWeek": 14, "text": "Hormonal stability may improve mood slightly this week." },
+    { "upToWeek": 16, "text": "Body changes become more visible — support confidence." },
+    { "upToWeek": 18, "text": "First fetal movements may appear soon. Stay attentive." },
+    { "upToWeek": 20, "text": "Anatomy scan is emotionally important for both of you." },
+    { "upToWeek": 22, "text": "External opinions may increase stress. Be a calm anchor." },
+    { "upToWeek": 24, "text": "Physical discomfort is becoming noticeable. Step up practically." },
+    { "upToWeek": 26, "text": "Sleep quality may be declining. Take on more so she can rest." },
+    { "upToWeek": 28, "text": "Third trimester emotional intensity begins. Stay present." },
+    { "upToWeek": 30, "text": "Labor anxiety may start increasing. Prepare together." },
+    { "upToWeek": 32, "text": "Nesting and preparation phase — be an active participant." },
+    { "upToWeek": 34, "text": "Fatigue increases again. Take over more household tasks." },
+    { "upToWeek": 36, "text": "Labor may start at any time. Stay reachable 24/7." },
+    { "upToWeek": 38, "text": "Emotions and anticipation peak. Be steady and reassuring." },
+    { "upToWeek": 40, "text": "Stay calm and supportive. Your presence matters most now." }
+  ],
+
+  "partnerActions": [
+    { "upToWeek":  4, "items": ["Start a healthy routine together", "Support prenatal vitamin habit", "Reduce household stress"] },
+    { "upToWeek":  8, "items": ["Attend appointments when possible", "Help with nausea care", "Create a shared appointment schedule"] },
+    { "upToWeek": 12, "items": ["Attend the first ultrasound", "Learn the basics of pregnancy stages", "Support emotional stability"] },
+    { "upToWeek": 14, "items": ["Support body changes positively", "Plan for upcoming scans together", "Help with daily tasks"] },
+    { "upToWeek": 16, "items": ["Research birth classes you can attend together", "Support nutrition and meal planning", "Reduce her workload where possible"] },
+    { "upToWeek": 18, "items": ["Bond with baby movements together", "Support partner wellbeing", "Stay emotionally available"] },
+    { "upToWeek": 20, "items": ["Attend the anatomy scan — this is a big one", "Start nursery planning as a team", "Discuss parenting roles openly"] },
+    { "upToWeek": 22, "items": ["Reduce external stress sources", "Support physical comfort", "Be emotionally present"] },
+    { "upToWeek": 24, "items": ["Learn the signs of preterm labor", "Support upcoming doctor visits", "Help with birth planning discussions"] },
+    { "upToWeek": 26, "items": ["Improve sleep support at home", "Encourage rest and breaks", "Discuss labor expectations together"] },
+    { "upToWeek": 28, "items": ["Start kick counting together each evening", "Prepare the hospital bag checklist", "Learn the stages of labor"] },
+    { "upToWeek": 30, "items": ["Support emotional anxiety about birth", "Prepare logistics — car, hospital route", "Be a calm, steady presence"] },
+    { "upToWeek": 32, "items": ["Install the car seat", "Do a trial run to the hospital", "Organise supplies at home"] },
+    { "upToWeek": 34, "items": ["Prepare freezer meals for after the birth", "Finalise the birth plan together", "Encourage extra rest"] },
+    { "upToWeek": 36, "items": ["Stay available 24/7", "Monitor labor signs together", "Support emotional calm"] },
+    { "upToWeek": 38, "items": ["Stay reassuring and positive", "Track contractions when they begin", "Support rest whenever possible"] },
+    { "upToWeek": 40, "items": ["Be fully present and focused", "Support the labor process step by step", "Handle communication with family"] }
+  ],
+
+  "babyActions": [
+    { "upToWeek":  4, "items": ["Implantation occurs", "Basic cell division begins"] },
+    { "upToWeek":  8, "items": ["Organs begin forming", "Heartbeat starts"] },
+    { "upToWeek": 12, "items": ["Reflexes develop", "Movement begins"] },
+    { "upToWeek": 14, "items": ["Sex organs differentiate", "Rapid growth begins"] },
+    { "upToWeek": 16, "items": ["Hearing begins developing", "Stronger movements"] },
+    { "upToWeek": 18, "items": ["First perceptible movements"] },
+    { "upToWeek": 20, "items": ["Strong kicks begin", "Senses develop"] },
+    { "upToWeek": 22, "items": ["Sleep cycles form"] },
+    { "upToWeek": 24, "items": ["Viability threshold reached"] },
+    { "upToWeek": 26, "items": ["Lung development continues"] },
+    { "upToWeek": 28, "items": ["Brain rapidly develops"] },
+    { "upToWeek": 30, "items": ["Fat accumulation increases"] },
+    { "upToWeek": 32, "items": ["Reflexes strengthen"] },
+    { "upToWeek": 34, "items": ["Lungs near maturity"] },
+    { "upToWeek": 36, "items": ["Almost fully developed"] },
+    { "upToWeek": 38, "items": ["Full term readiness"] },
+    { "upToWeek": 40, "items": ["Birth readiness"] }
+  ],
+
+  "postpartumActions": [
+    { "upToWeek":  1, "items": ["Recovery and rest", "Skin-to-skin bonding", "Feeding support"] },
+    { "upToWeek":  2, "items": ["Monitor newborn health", "Establish feeding rhythm", "Limit visitors"] },
+    { "upToWeek":  4, "items": ["Sleep deprivation management", "Emotional monitoring", "Support feeding routines"] },
+    { "upToWeek":  6, "items": ["Postpartum checkup", "Pelvic recovery focus", "Mental health awareness"] },
+    { "upToWeek":  8, "items": ["Routine stabilization", "Begin gentle activity", "Family adjustment"] },
+    { "upToWeek": 12, "items": ["Long-term routine building", "Parent bonding", "Sleep optimization"] },
+    { "upToWeek": 52, "items": ["First year development", "Vaccinations", "Milestone tracking"] }
+  ],
+
+  "babyPartnerTips": [
+    { "upToWeek":  4, "text": "Share night feeds so your partner can sleep. Even if breastfeeding, you can burp, soothe, and change." },
+    { "upToWeek": 12, "text": "Take {name} for solo walks so your partner has uninterrupted rest. Every hour matters." },
+    { "upToWeek": 26, "text": "Learn {his} cues together. Getting on the same page reduces stress for both of you." },
+    { "upToWeek": 39, "text": "Babyproofing is a team sport. Go through the home together and divide the to-do list." },
+    { "upToWeek": 99, "text": "Celebrate one year together. Acknowledge how much you've both grown as parents." }
+  ],
+
+  "babyPartnerActions": [
+    { "upToWeek":  2, "items": ["Take night shifts so your partner can sleep in longer stretches", "Learn to swaddle and soothe — practice makes perfect", "Attend the 1-week pediatrician visit together"] },
+    { "upToWeek":  6, "items": ["Take {name} for solo walks — give your partner uninterrupted rest", "Watch for signs of postpartum blues in your partner", "Handle one full night per week so your partner recovers"] },
+    { "upToWeek": 12, "items": ["Engage with {name} during awake windows — smile and talk", "Plan a short outing together as a family", "Check in on your partner's mental wellbeing"] },
+    { "upToWeek": 20, "items": ["Do tummy time with {name} — get on the floor together", "Read to {him} — your voice matters", "Plan the 4-month checkup and attend together"] },
+    { "upToWeek": 26, "items": ["Start learning about introducing solid foods", "Babyproof the home together — divide the to-do list", "Plan the 6-month checkup"] },
+    { "upToWeek": 39, "items": ["Encourage {name} to crawl and explore safely", "Take over bath time as your bonding routine", "Begin planning the first birthday together"] },
+    { "upToWeek": 99, "items": ["Celebrate one year as a family!", "Support the transition to whole milk", "Attend the 12-month well-child visit together"] }
+  ],
+
+  "newbornCareActions": [
+    { "upToWeek":  2, "items": ["Skin-to-skin contact as much as possible", "Feed on demand — newborns eat every 2-3 hours", "Schedule the 1-week pediatrician visit"] },
+    { "upToWeek":  6, "items": ["Watch for signs of jaundice", "Tummy time for at least 30 minutes a day", "2-month vaccines are coming soon"] },
+    { "upToWeek": 12, "items": ["{He} may start smiling — respond and engage!", "Continue tummy time daily", "Sleep routine: short naps, awake windows"] },
+    { "upToWeek": 20, "items": ["Look for signs of {him} rolling over", "Introduce high-contrast toys and books", "4-month checkup and vaccines"] },
+    { "upToWeek": 26, "items": ["Signs of readiness for solid foods", "{He} may sit with support soon", "6-month checkup — discuss starting solids"] },
+    { "upToWeek": 39, "items": ["Start gentle finger foods if cleared by pediatrician", "{He} may be crawling or pulling to stand", "Childproof your home now"] },
+    { "upToWeek": 99, "items": ["{name}'s first birthday coming up!", "Transition to whole milk may be starting", "Schedule the 12-month well-child visit"] }
+  ],
+
+  "warningSignsPregnancy": [
+    {
+      "upToWeek": 99,
+      "items": ["Heavy bleeding", "Severe abdominal pain", "High fever", "Severe headache or vision changes", "Reduced fetal movement later in pregnancy", "Fluid leakage", "Painful contractions too early", "Difficulty breathing", "Chest pain"]
+    }
+  ],
+
+  "warningSignsBaby": [
+    {
+      "upToWeek": 52,
+      "items": ["Fever in a newborn", "Difficulty breathing", "Blue lips or skin", "Poor feeding", "Extreme sleepiness", "Signs of dehydration", "Persistent vomiting", "Unusual rash", "Seizure-like movements"]
+    }
+  ],
+
+  "mentalHealthTips": [
+    { "upToWeek": 12, "text": "Pregnancy emotions can change quickly due to hormones and uncertainty. Be gentle with yourself." },
+    { "upToWeek": 24, "text": "It is normal to feel both excitement and anxiety about becoming a parent." },
+    { "upToWeek": 36, "text": "Preparing for birth can feel overwhelming. Focus on one step at a time." },
+    { "upToWeek": 52, "text": "Sleep deprivation and emotional ups and downs are common after birth. Asking for help is healthy." }
+  ],
+
+  "monthlyBabyMilestones": [
+    { "month":  1, "items": ["Tracks faces briefly", "Responds to sounds", "Sleeps most of the day", "Begins lifting head slightly"] },
+    { "month":  2, "items": ["Social smiling may begin", "More alert during awake time", "Improved head control", "Recognizes familiar voices"] },
+    { "month":  3, "items": ["Follows moving objects", "Coos and makes sounds", "Pushes up during tummy time", "Enjoys interaction"] },
+    { "month":  4, "items": ["May roll over", "Laughing may begin", "Grabs toys intentionally", "Longer sleep stretches possible"] },
+    { "month":  5, "items": ["Shows curiosity", "May sit with support", "Explores objects with hands and mouth", "Recognizes caregivers easily"] },
+    { "month":  6, "items": ["May begin solid foods", "Sits with minimal support", "Responds to own name", "Babbles frequently"] },
+    { "month":  7, "items": ["May start crawling", "Transfers objects between hands", "Recognizes emotions", "Enjoys interactive games"] },
+    { "month":  8, "items": ["Separation anxiety may appear", "Pulls toward standing", "Improved coordination", "Responds to simple words"] },
+    { "month":  9, "items": ["May crawl confidently", "Uses pincer grasp", "Understands simple gestures", "Explores surroundings actively"] },
+    { "month": 10, "items": ["Cruises along furniture", "Imitates sounds", "Points at objects", "Shows strong preferences"] },
+    { "month": 11, "items": ["May stand briefly alone", "Understands more words", "Enjoys repeating actions", "Improved balance and coordination"] },
+    { "month": 12, "items": ["May take first steps", "May say first words", "Transitions toward toddler routines", "Celebrates first birthday"] }
+  ],
+
+  "hospitalBagChecklist": [
+    "ID and insurance documents",
+    "Phone charger",
+    "Comfortable clothes",
+    "Slippers",
+    "Toiletries",
+    "Nursing bras",
+    "Baby clothes",
+    "Installed car seat",
+    "Snacks",
+    "Birth plan copy"
+  ],
+
+  "newbornEssentialsChecklist": [
+    "Diapers",
+    "Wipes",
+    "Baby clothes",
+    "Swaddles",
+    "Bassinet or crib",
+    "Baby monitor",
+    "Infant thermometer",
+    "Car seat",
+    "Burp cloths",
+    "Bath supplies"
+  ],
+
+  "laborSigns": [
+    "Regular contractions getting closer together",
+    "Water breaking",
+    "Bloody show",
+    "Pelvic pressure",
+    "Lower back pain",
+    "Difficulty talking through contractions"
+  ]
+}

@@ -1,0 +1,282 @@
+[
+  {
+    "week": 1,
+    "title": "Az utazás kezdete",
+    "babySize": "láthatatlan",
+    "description": "A terhességet az utolsó menstruáció első napjától számítják. A szervezet felkészül az ovulációra és a lehetséges megtermékenyítésre.",
+    "imageDescription": "Sejtek mikroszkopikus képe a kezdeti szakaszban."
+  },
+  {
+    "week": 2,
+    "title": "Az ovuláció hete",
+    "babySize": "láthatatlan",
+    "description": "Általában ezen a héten történik az ovuláció. Ha a spermium találkozik a petesejttel, megtermékenyítés jöhet létre.",
+    "imageDescription": "A petefészekből kilépő petesejt."
+  },
+  {
+    "week": 3,
+    "title": "Megtermékenyítés",
+    "babySize": "mákszem",
+    "description": "Megtermékenyítés esetén zigóta jön létre. A sejt gyors osztódásba kezd, miközben a méh felé halad.",
+    "imageDescription": "Gyorsan osztódó megtermékenyített petesejt."
+  },
+  {
+    "week": 4,
+    "title": "Beágyazódás",
+    "babySize": "mákszem",
+    "description": "Az embrió beágyazódik a méhfalba. Megkezdődik az idegrendszer alapjainak kialakulása.",
+    "imageDescription": "Apró embrió a méhnyálkahártyában."
+  },
+  {
+    "week": 5,
+    "title": "Korai fejlődés",
+    "babySize": "szezámmag",
+    "description": "A szív és a keringési rendszer alapjai kialakulnak. A szív kezdeti elektromos aktivitása megindulhat.",
+    "imageDescription": "Korai embrió fejlődő szívkezdeménnyel."
+  },
+  {
+    "week": 6,
+    "title": "Szívtevékenység",
+    "babySize": "lencse",
+    "description": "Az ultrahangon gyakran már kimutatható a szívverés. Megjelennek a végtagbimbók.",
+    "imageDescription": "Ultrahangon látható korai szívtevékenység."
+  },
+  {
+    "week": 7,
+    "title": "Agyfejlődés",
+    "babySize": "áfonya",
+    "description": "Az agy gyorsan fejlődik. A kar- és lábkezdemények jól láthatók, és megindulnak az első mozgások.",
+    "imageDescription": "Áfonya méretű embrió végtagbimbókkal."
+  },
+  {
+    "week": 8,
+    "title": "Embrió szakasz vége",
+    "babySize": "málna",
+    "description": "Kialakulnak az ujjak és lábujjak. A fő szervek tovább fejlődnek.",
+    "imageDescription": "Málna méretű embrió kialakuló ujjakkal."
+  },
+  {
+    "week": 9,
+    "title": "Korai mozgás",
+    "babySize": "szőlő",
+    "description": "A magzat mozogni kezd, de ezt még nem lehet érezni. Az izmok és idegek fejlődnek.",
+    "imageDescription": "Szőlő méretű magzat fejlődő izmokkal."
+  },
+  {
+    "week": 10,
+    "title": "Magzati szakasz",
+    "babySize": "kumkvat",
+    "description": "Az embrió innentől magzatnak számít. A főbb szervek kialakulnak és elkezdenek működni.",
+    "imageDescription": "Kumkvat méretű magzat kialakuló arcvonásokkal."
+  },
+  {
+    "week": 11,
+    "title": "Ujjlenyomatok",
+    "babySize": "füge",
+    "description": "Kialakulnak az egyedi ujjlenyomatok. A fogcsírák fejlődnek.",
+    "imageDescription": "Füge méretű magzat ujjlenyomat-kialakulással."
+  },
+  {
+    "week": 12,
+    "title": "Első trimeszter vége",
+    "babySize": "lime",
+    "description": "A fő szervek kialakultak. A magzat apró mozdulatokat és mimikát végezhet.",
+    "imageDescription": "Lime méretű magzat finom arcvonásokkal."
+  },
+  {
+    "week": 13,
+    "title": "Második trimeszter kezdete",
+    "babySize": "borsóhüvely",
+    "description": "Csökken a vetélés kockázata. A magzat képes hüvelykujját szopni.",
+    "imageDescription": "Borsóhüvely méretű magzat fejlődő mozgásokkal."
+  },
+  {
+    "week": 14,
+    "title": "Fejlődő érzékek",
+    "babySize": "citrom",
+    "description": "A magzat légzőmozgásokat végez. Megjelenik a lanugo szőrzet.",
+    "imageDescription": "Citrom méretű magzat finom szőrzettel."
+  },
+  {
+    "week": 15,
+    "title": "Csontfejlődés",
+    "babySize": "alma",
+    "description": "A csontok erősödnek. A fül a végleges helyére kerül.",
+    "imageDescription": "Alma méretű magzat fejlődő csontozattal."
+  },
+  {
+    "week": 16,
+    "title": "Hallás kezdete",
+    "babySize": "avokádó",
+    "description": "A magzat már érzékelhet bizonyos hangokat. A csontok tovább keményednek.",
+    "imageDescription": "Avokádó méretű magzat fejlődő hallással."
+  },
+  {
+    "week": 17,
+    "title": "Zsírpárnák kialakulása",
+    "babySize": "körte",
+    "description": "Megkezdődik a zsírraktározás. A köldökzsinór erősödik.",
+    "imageDescription": "Körte méretű magzat zsírraktározással."
+  },
+  {
+    "week": 18,
+    "title": "Első mozgások",
+    "babySize": "paprika",
+    "description": "A magzat nyel, csuklik és mozog. Egyes anyák már érzik a mozgást.",
+    "imageDescription": "Paprika méretű magzat aktív mozgásokkal."
+  },
+  {
+    "week": 19,
+    "title": "Érzékszervek fejlődése",
+    "babySize": "mangó",
+    "description": "Az agy fejleszti az érzékelésért felelős területeket.",
+    "imageDescription": "Mangó méretű magzat fejlődő idegrendszerrel."
+  },
+  {
+    "week": 20,
+    "title": "Félidő",
+    "babySize": "banán",
+    "description": "A magzat nyel és vernix borítja. A mozgások jól érezhetők.",
+    "imageDescription": "Banán méretű magzat vernixszel borítva."
+  },
+  {
+    "week": 21,
+    "title": "Ízlelés",
+    "babySize": "sárgarépa",
+    "description": "Az ízlelőbimbók működnek. A magzat érzékeli az ízeket.",
+    "imageDescription": "Sárgarépa méretű magzat fejlett érzékszervekkel."
+  },
+  {
+    "week": 22,
+    "title": "Emberi vonások",
+    "babySize": "spagettitök",
+    "description": "A magzat arca egyre inkább újszülöttre hasonlít.",
+    "imageDescription": "Spagettitök méretű magzat felismerhető arccal."
+  },
+  {
+    "week": 23,
+    "title": "Gyors növekedés",
+    "babySize": "grapefruit",
+    "description": "A magzat gyorsan hízik, a tüdő fejlődik.",
+    "imageDescription": "Grapefruit méretű magzat növekedés közben."
+  },
+  {
+    "week": 24,
+    "title": "Életképesség határa",
+    "babySize": "kukorica",
+    "description": "A tüdő fejlődik, légzőmozgások gyakorlása megindul.",
+    "imageDescription": "Kukorica méretű magzat légzőmozgásokkal."
+  },
+  {
+    "week": 25,
+    "title": "Hangokra reagál",
+    "babySize": "karórépa",
+    "description": "A magzat reagál hangokra és zenére.",
+    "imageDescription": "Karórépa méretű magzat hallási reakciókkal."
+  },
+  {
+    "week": 26,
+    "title": "Szemnyitás",
+    "babySize": "cukkini",
+    "description": "A szemhéjak kinyílhatnak, a retina fejlődik.",
+    "imageDescription": "Cukkini méretű magzat nyíló szemekkel."
+  },
+  {
+    "week": 27,
+    "title": "Alvásciklusok",
+    "babySize": "karfiol",
+    "description": "Kialakulnak az alvás-ébrenlét ciklusok, REM fázissal.",
+    "imageDescription": "Karfiol méretű magzat nyugodt alvás közben."
+  },
+  {
+    "week": 28,
+    "title": "Harmadik trimeszter",
+    "babySize": "padlizsán",
+    "description": "Az agy aktivitása jelentősen nő.",
+    "imageDescription": "Padlizsán méretű magzat aktív fejlődéssel."
+  },
+  {
+    "week": 29,
+    "title": "Pozícióváltás",
+    "babySize": "makktök",
+    "description": "A magzat gyakran fejjel lefelé fordul.",
+    "imageDescription": "Makktök méretű magzat pozícióváltás közben."
+  },
+  {
+    "week": 30,
+    "title": "Hajnövekedés",
+    "babySize": "káposzta",
+    "description": "A haj növekedésnek indul, a csontvelő működik.",
+    "imageDescription": "Káposzta méretű magzat növekvő hajjal."
+  },
+  {
+    "week": 31,
+    "title": "Agyfejlődés csúcsa",
+    "babySize": "kókusz",
+    "description": "Az agy gyorsan fejlődik és kapcsolódik.",
+    "imageDescription": "Kókusz méretű magzat fejlődő aggyal."
+  },
+  {
+    "week": 32,
+    "title": "Készülődés",
+    "babySize": "tök",
+    "description": "A magzat gyakorolja a légzést és hízik.",
+    "imageDescription": "Tök méretű magzat fejlődő körmökkel."
+  },
+  {
+    "week": 33,
+    "title": "Immunvédelem",
+    "babySize": "ananász",
+    "description": "Antitesteket kap az anyától.",
+    "imageDescription": "Ananász méretű magzat immunvédelemmel."
+  },
+  {
+    "week": 34,
+    "title": "Érés",
+    "babySize": "sárgadinnye",
+    "description": "A szervek közel teljesen érettek.",
+    "imageDescription": "Sárgadinnye méretű magzat érő szervekkel."
+  },
+  {
+    "week": 35,
+    "title": "Veseműködés",
+    "babySize": "honeydew",
+    "description": "A vesék teljesen működnek.",
+    "imageDescription": "Dinnyeméretű magzat fejlett vesékkel."
+  },
+  {
+    "week": 36,
+    "title": "Érettség közelében",
+    "babySize": "római saláta",
+    "description": "A magzat szinte teljesen érett.",
+    "imageDescription": "Római saláta méretű magzat közel a születéshez."
+  },
+  {
+    "week": 37,
+    "title": "Korai érett",
+    "babySize": "télitök",
+    "description": "A magzat már életképes és erős reflexekkel rendelkezik.",
+    "imageDescription": "Télitök méretű magzat erős reflexekkel."
+  },
+  {
+    "week": 38,
+    "title": "Teljes érettség",
+    "babySize": "tök",
+    "description": "A magzat teljesen érett és készen áll a születésre.",
+    "imageDescription": "Tök méretű magzat születés előtt."
+  },
+  {
+    "week": 39,
+    "title": "Bármikor",
+    "babySize": "mini görögdinnye",
+    "description": "A magzat készen áll a születésre.",
+    "imageDescription": "Mini görögdinnye méretű magzat a születés előtt."
+  },
+  {
+    "week": 40,
+    "title": "Születés",
+    "babySize": "görögdinnye",
+    "description": "A baba teljesen fejlett és készen áll a világra.",
+    "imageDescription": "Újszülött baba a születés pillanatában."
+  }
+]

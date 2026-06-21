@@ -1,0 +1,59 @@
+{
+  "pregnancyActions": [
+    { "upToWeek":  4, "items": ["Időpontot foglalj az első szülészeti vizsgálatra", "Kezdj el terhesvitamint szedni", "Kerüld az alkoholt, a dohányzást, és csökkentsd a koffeinbevitelt"] },
+    { "upToWeek":  8, "items": ["Foglalj időpontot az első ultrahangra", "Beszéld meg az orvossal a terhesgondozás lehetőségeit", "Figyeld a terhesség korai tüneteit"] },
+    { "upToWeek": 12, "items": ["Esedékes az első trimeszter szűrővizsgálata", "Ha szeretnéd, oszd meg a hírt a közeli hozzátartozókkal", "Érdeklőd a NIPT genetikai szűrésről"] },
+    { "upToWeek": 16, "items": ["Foglalj időpontot a {week}. heti ellenőrzésre", "Kezdj el szülésfelkészítő tanfolyamot keresni", "A morfológiai ultrahang a 20. héten várható"] },
+    { "upToWeek": 20, "items": ["Morfológiai ultrahang ezen a héten — ne hagyd ki!", "Figyelj a baba mozgásaira", "Kezdj el tervezni a babasaroknak"] },
+    { "upToWeek": 24, "items": ["Foglalj időpontot a {week}. heti ellenőrzésre", "Hamarosan jön a terhelési teszt", "Megbeszéljük a születési tervet az orvossal"] },
+    { "upToWeek": 28, "items": ["A harmadik trimeszter a 28. héten kezdődik", "Kezdj el naponta rúgásszámlálást végezni", "Kérdezz rá a Rh-faktor vizsgálatra, ha szükséges"] },
+    { "upToWeek": 32, "items": ["Kezdd el pakolni a kórházi táskát", "Látogasd meg a kórházat előzetesen", "Véglegesítsd a születési tervet"] },
+    { "upToWeek": 36, "items": ["Heti szülészeti ellenőrzések mostantól", "Erősítsd meg, ki lesz veled a szülésnél", "Készítsd elő a babafelszerelés alapjait"] },
+    { "upToWeek": 99, "items": ["Pihenj sokat és igyál elegendő folyadékot", "Tartsd készenlétben a kórházi táskát", "Mérd az összehúzódások idejét, ha elkezdődnek"] }
+  ],
+  "partnerTips": [
+    { "upToWeek":  6, "text": "A reggeli rosszullét kimerítő lehet. Kínálj könnyen emészthető ételeket, gyömbérteát, és légy türelmes." },
+    { "upToWeek": 13, "text": "Menj el együtt az első ultrahangra — olyan pillanat, amelyre mindketten egész életetek emlékezni fogtok." },
+    { "upToWeek": 20, "text": "Hamarosan először rúghat a baba. Tedd a kezed a párod hasára, és legyél jelen ebben a pillanatban." },
+    { "upToWeek": 28, "text": "Rendezzétek be együtt a babaszobát. A közös fészekrakás erősíti a kapcsolatotokat leendő szülőkként." },
+    { "upToWeek": 35, "text": "Pakoljátok össze együtt a kórházi táskát, és csináljatok próbaútat a kórházig. A felkészültség csökkenti a szorongást." },
+    { "upToWeek": 99, "text": "Légy elérhető nappal és éjjel — a szülés bármikor elkezdődhet. Tartsd töltve a telefont, és maradj a közelben." }
+  ],
+  "partnerActions": [
+    { "upToWeek":  4, "items": ["Keressetek együtt szülészt vagy bábát", "Vegyél terhesvitamint a párodnak", "Olvasss utána, mire számíthattok az első trimeszterben"] },
+    { "upToWeek":  8, "items": ["Ha lehet, menj el az első szülészeti vizsgálatra", "Segíts a reggeli rosszullét kezelésében — gyömbérteával, sós keksszel", "Hozzatok létre közös naptárt a közelgő vizsgálatokhoz"] },
+    { "upToWeek": 12, "items": ["Tervezd meg, hogy együtt mentek az első ultrahangra", "Beszéljetek nyíltan reményeitekről és aggodalmaitokról", "Kezdj el tájékozódni a terhesség szakaszairól"] },
+    { "upToWeek": 16, "items": ["Kérdezz rá a 20. heti morfológiai ultrahangra — tervezd, hogy ott leszel", "Keressen szülésfelkészítő tanfolyamot, amelyen együtt vehetnétek részt", "Vállald át azokat a háztartási feladatokat, amelyek megterhelőek a párodnak"] },
+    { "upToWeek": 20, "items": ["Menj el a morfológiai ultrahangra — ez egy nagy pillanat", "Érezzétek együtt {name} rúgásait", "Kezdjétek el közösen tervezni a babaszobát"] },
+    { "upToWeek": 24, "items": ["Ismerd meg a koraszülés jeleit", "Segíts a párodnak elegendő folyadékot inni és kényelemben lenni", "Vitassátok meg együtt a születési tervet"] },
+    { "upToWeek": 28, "items": ["Kezdjetek el együtt rúgásszámlálást végezni minden este", "Készítsétek el a kórházi táska csomagolistáját", "Ismerkedj meg a szülés szakaszaival"] },
+    { "upToWeek": 32, "items": ["Pakold össze a kórházi táskát együtt a pároddal", "Csináljatok próbaútat a kórházig — ismerd az útvonalat", "Beszéljétek meg a szerepedet a szülés alatt"] },
+    { "upToWeek": 36, "items": ["Tartsd mindig bekapcsolva és feltöltve a telefonod", "Véglegesítsétek a gyermekfelügyeleti és születés utáni terveket", "Főzz és fagyassz be ételeket a szülés utánra"] },
+    { "upToWeek": 99, "items": ["Maradj a közelben — a szülés bármikor elkezdődhet", "Emlékeztesd a párod, milyen csodálatos", "Pihenj együtt, amikor csak lehet"] }
+  ],
+  "babyActions": [
+    { "upToWeek":  2, "items": ["Bőr-bőr érintkezés, amennyire csak lehetséges", "Igény szerint etesd — az újszülöttek 2-3 óránként esznek", "Foglalj időpontot az 1 hetes gyerekorvosi vizsgálatra"] },
+    { "upToWeek":  6, "items": ["Figyelj a sárgaság jeleire", "Hasonfektetés napi legalább 30 percig", "Hamarosan jönnek a 2 hónapos oltások"] },
+    { "upToWeek": 12, "items": ["{He} talán már mosolyog — reagálj rá, legyél jelen!", "Folytasd a napi hasonfektetést", "Alvásrutin: rövid nappalok, ébrenléti ablakok"] },
+    { "upToWeek": 20, "items": ["Figyelj {name} fordulásának jeleire", "Vezess be kontrasztos játékokat és képeskönyveket", "4 hónapos ellenőrzés és oltások"] },
+    { "upToWeek": 26, "items": ["Hozzátáplálásra való érettség jelei", "{He} hamarosan ülhet támogatással", "6 hónapos ellenőrzés — beszéljétek meg a hozzátáplálás megkezdését"] },
+    { "upToWeek": 39, "items": ["Kezdj gyümölcsdarabkákat kínálni, ha az orvos jóváhagyta", "{He} talán mászik vagy állni próbál", "Gyerekbiztosítsd a lakást"] },
+    { "upToWeek": 99, "items": ["{name} első születésnapja közeleg!", "Hamarosan áttérhet a tehéntejre", "Foglalj időpontot az 1 éves fejlődési vizsgálatra"] }
+  ],
+  "babyPartnerTips": [
+    { "upToWeek":  4, "text": "Oszd meg az éjszakai etetéseket, hogy a párod aludhasson. Még szoptatás esetén is tudsz büfiztetni, megnyugtatni és pelenkázni." },
+    { "upToWeek": 12, "text": "Vidd {name}-t sétálni egyedül, hogy a párod zavartalan pihenőt kapjon. Minden óra számít." },
+    { "upToWeek": 26, "text": "Tanuljátok meg együtt {his} jelzéseit. Az összhang csökkenti a stresszt mindkettőtök számára." },
+    { "upToWeek": 39, "text": "A gyerekbiztosítás csapatmunka. Menj végig a lakáson együtt, és osszátok el a feladatokat." },
+    { "upToWeek": 99, "text": "Ünnepeljétek meg együtt az egy évet. Ismerjétek el, mennyit fejlődtetek szülőként." }
+  ],
+  "babyPartnerActions": [
+    { "upToWeek":  2, "items": ["Vállalj éjszakai műszakokat, hogy a párod hosszabb szakaszokban aludhasson", "Tanuld meg a pólyázást és a megnyugtatást — a gyakorlat teszi a mestert", "Menj el együtt az 1 hetes gyerekorvosi vizsgálatra"] },
+    { "upToWeek":  6, "items": ["Vidd {name}-t sétálni — adj párodnak zavartalan pihenőt", "Figyelj a szülés utáni hangulatzavar jeleire a párodban", "Vállalj át egy teljes éjszakát hetente, hogy a párod regenerálódhasson"] },
+    { "upToWeek": 12, "items": ["Kapcsolódj {name}-hez az éber időszakokban — mosolyogj és beszélj hozzá", "Tervezzetek egy kis közös kirándulást családként", "Kérdezz rá a párod lelki állapotára"] },
+    { "upToWeek": 20, "items": ["Végezz hasonfektetést {name}-nel — feküdj le te is a földre", "Olvass {name}-nek — a hangod sokat jelent", "Tervezd meg a 4 hónapos vizsgálatot és menj el együtt"] },
+    { "upToWeek": 26, "items": ["Tájékozódj a hozzátáplálás megkezdéséről", "Gyerekbiztosítsd közösen a lakást — osszátok el a feladatokat", "Tervezzétek meg a 6 hónapos vizsgálatot"] },
+    { "upToWeek": 39, "items": ["Bátorítsd {name}-t a mászásra és a biztonságos felfedezésre", "Vedd át a fürdetést mint a kettőtök közös rutinját", "Kezdj el tervezni az első születésnapot"] },
+    { "upToWeek": 99, "items": ["Ünnepeljétek meg az egy évet familyként!", "Segítsd az átállást a tehéntejre", "Menj el az 1 éves fejlődési vizsgálatra"] }
+  ]
+}
